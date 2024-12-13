@@ -1,7 +1,7 @@
 <div>
     
 # Joseph Dougan 
-**`Developer `**  
+**`Developer`**  
 
     🔮 Films -- Music -- Code  
     🌱 I’m currently learning C++
